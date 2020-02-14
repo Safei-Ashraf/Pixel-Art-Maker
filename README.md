@@ -17,7 +17,7 @@
 4.You can mix multiple colors and override them if you wish.
 
 
-*Grid resets on new input for size.*
+*Grid resets on new input for size, also you can pick multiple colors for the same drawing.*
 ### To give it a try just [Click Here](https://safei-ashraf.github.io/Pixel-Art-Maker/index.html)!
 
 
