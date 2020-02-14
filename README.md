@@ -19,6 +19,6 @@ A simple tool that allows you to pick a grid size as a matrix (length and height
 4.You can mix multiple colors and override them if you wish.
 
 
-*Grid resets on new input for size.
+*Grid resets on new input for size.*
 
 
