@@ -2,9 +2,7 @@
 
 *A simple tool that allows you to pick a grid size as a matrix (length and height) pick colors of your choice and style it as you wish!.*
 
-## Instructions
-
-### To give it a try just [Click Here](https://safei-ashraf.github.io/Pixel-Art-Maker/index.html)!
+## Instructions:
 
 
 1.Select inputs you wish for grid size
@@ -20,5 +18,6 @@
 
 
 *Grid resets on new input for size.*
+### To give it a try just [Click Here](https://safei-ashraf.github.io/Pixel-Art-Maker/index.html)!
 
 
