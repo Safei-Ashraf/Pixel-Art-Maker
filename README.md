@@ -4,7 +4,7 @@
 
 ## Instructions
 
-###To give it a try just [Click Here](https://safei-ashraf.github.io/Pixel-Art-Maker/index.html)!
+### To give it a try just [Click Here](https://safei-ashraf.github.io/Pixel-Art-Maker/index.html)!
 
 
 1.Select inputs you wish for grid size
