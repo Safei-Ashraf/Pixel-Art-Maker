@@ -1,7 +1,5 @@
 # Pixel Art Maker Tool  
-
-
-![amazing-pixel-art-wow](https://user-images.githubusercontent.com/44810632/75442397-101c9180-5968-11ea-893c-ece047e0b28c.gif)
+![amazing-pixel-art-wow](https://user-images.githubusercontent.com/44810632/75442768-d009de80-5968-11ea-935a-a357dbecd042.png)
 
 *A simple tool that allows you to pick a grid size as a matrix (length and height) pick colors of your choice and style it as you wish!.*
 Use it to draw some fun shapes or even more!
